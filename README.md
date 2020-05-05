@@ -109,7 +109,7 @@
             <sub>You can see the ready-made packages and add-ons you need during game development in this list.</sub>
         </td>
         <td align="center" valign="top">
-            <a href="code.md" title="GDScript / Tips and Tricks">
+            <a href="codes.md" title="GDScript / Tips and Tricks">
                 <img src="icons/code.png" width="100px;" alt="GDScript / Tips and Tricks" />
                 <br />
                 <sub><b>GDScript / Tips and Tricks</b></sub>
@@ -118,7 +118,7 @@
             <sub>Here is a list of links that will help you learn and use <b> GDScript </b> to help you with Godot Engine</sub>
         </td>
         <td align="center" valign="top">
-            <a href="forum.md" title="Godot Forum / Community Important Titles">
+            <a href="forums.md" title="Godot Forum / Community Important Titles">
                 <img src="icons/forum.png" width="100px;" alt="Godot Forum / Community Important Titles" />
                 <br />
                 <sub><b>Forum / Community Important Titles</b></sub>

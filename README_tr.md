@@ -110,7 +110,7 @@
             <sub>Oyun geliştirme sırasında ihtiyacınız olan hazır paketleri ve eklentileri bu listemizde görebilirsiniz.</sub>
         </td>
         <td align="center" valign="top">
-            <a href="code.md" title="GDScript / Tips and Tricks">
+            <a href="codes.md" title="GDScript / Tips and Tricks">
                 <img src="icons/code.png" width="100px;" alt="GDScript / Tips and Tricks" />
                 <br />
                 <sub><b>GDScript / İpuçları</b></sub>
@@ -119,7 +119,7 @@
             <sub>Godot Engine için size yardımcı olacak <b>GDScript</b> öğrenmenizi ve kullanmanızı kolaylaştıracak bağlantıların listesini burada bulabirsiniz.</sub>
         </td>
         <td align="center" valign="top">
-            <a href="forum.md" title="Godot Forum / Community Important Titles">
+            <a href="forums.md" title="Godot Forum / Community Important Titles">
                 <img src="icons/forum.png" width="100px;" alt="Godot Forum / Community Important Titles" />
                 <br />
                 <sub><b>Forum / Topluluk / Önemli Başlıklar</b></sub>
