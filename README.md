@@ -10,8 +10,8 @@
 
 <table width="100%">
     <tr>
-        <td align="center" valign="center">
-            <img src="flags/us.png" width="100px;" alt="us" />
+        <td align="center" valign="center" width="85">
+            <img src="flags/us.png" alt="us" />
         </td>
         <td>
         Although our list is basically built on **Godot Engine**, we have listed this list not only with the Godot Engine, but by combining the assets, scripts, animations, graphics, fonts, physics accounts and more we need for a game development. You can find both tips and tactics that you may need during the development as well as helping beginners. At the same time, we have gathered important and prominent discussion topics in godot forums or similar communities, high probability of encountering and resolved problems for you here.
@@ -20,7 +20,7 @@
     <tr>
         <td align="center" valign="center">
             <a href="README_tr.md" title="tr">
-                <img src="flags/tr.png" width="100px;" alt="tr" />
+                <img src="flags/tr.png" alt="tr" />
             </a>
         </td>
         <td>
@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td align="center" valign="center">
-            <img src="flags/de.png" width="100px;" alt="de" />
+            <img src="flags/de.png" alt="de" />
         </td>
         <td>..</td>
     </tr>

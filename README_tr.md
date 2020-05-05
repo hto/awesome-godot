@@ -10,8 +10,8 @@
 
 <table width="100%">
     <tr>
-        <td align="center" valign="center">
-            <img src="flags/tr.png" width="100px;" alt="tr" />
+        <td align="center" valign="center" width="85">
+            <img src="flags/tr.png" alt="tr" />
         </td>
         <td>
         Listemiz temel olarak **Godot Engine** üzerine yapılmış olsa da, bu listeyi sadece Godot Engine ile sınırlı tutmayıp bir oyun geliştirme için ihtiyacımız olan assetleri, scriptleri, animasyonları, grafikleri, fontları, fizik hesaplarını ve daha fazlasını bir araya getirerek listeledik. Hem yeni başlayanlara yardımcı, hem de geliştirme sırasında ihtiyac duyabileceğiniz bazı ipuclarını, taktikleri bulabilirsiniz. Aynı zamanda godot forumları yada benzer topluluklarda yer alan önem kazanmış, öne çıkmış tartışma konuları, denk gelme olasılığınız yüksek ve çözülmüş sorunları başlıklar halinde burada sizin için topladık.
@@ -20,7 +20,7 @@
     <tr>
         <td align="center" valign="center">
             <a href="README.md" title="tr">
-                <img src="flags/us.png" width="100px;" alt="us" />
+                <img src="flags/us.png" alt="us" />
             </a>
         </td>
         <td>
@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td align="center" valign="center">
-            <img src="flags/de.png" width="100px;" alt="de" />
+            <img src="flags/de.png" alt="de" />
         </td>
         <td>..</td>
     </tr>
