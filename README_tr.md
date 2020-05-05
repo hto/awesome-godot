@@ -14,7 +14,7 @@
             <img src="flags/tr.png" alt="tr" />
         </td>
         <td>
-        Listemiz temel olarak **Godot Engine** üzerine yapılmış olsa da, bu listeyi sadece Godot Engine ile sınırlı tutmayıp bir oyun geliştirme için ihtiyacımız olan assetleri, scriptleri, animasyonları, grafikleri, fontları, fizik hesaplarını ve daha fazlasını bir araya getirerek listeledik. Hem yeni başlayanlara yardımcı, hem de geliştirme sırasında ihtiyac duyabileceğiniz bazı ipuclarını, taktikleri bulabilirsiniz. Aynı zamanda godot forumları yada benzer topluluklarda yer alan önem kazanmış, öne çıkmış tartışma konuları, denk gelme olasılığınız yüksek ve çözülmüş sorunları başlıklar halinde burada sizin için topladık.
+        Listemiz temel olarak <b>Godot Engine</b> üzerine yapılmış olsa da, bu listeyi sadece Godot Engine ile sınırlı tutmayıp bir oyun geliştirme için ihtiyacımız olan assetleri, scriptleri, animasyonları, grafikleri, fontları, fizik hesaplarını ve daha fazlasını bir araya getirerek listeledik. Hem yeni başlayanlara yardımcı, hem de geliştirme sırasında ihtiyac duyabileceğiniz bazı ipuclarını, taktikleri bulabilirsiniz. Aynı zamanda godot forumları yada benzer topluluklarda yer alan önem kazanmış, öne çıkmış tartışma konuları, denk gelme olasılığınız yüksek ve çözülmüş sorunları başlıklar halinde burada sizin için topladık.
         </td>
     </tr>
     <tr>
@@ -24,7 +24,7 @@
             </a>
         </td>
         <td>
-        Although our list is basically built on **Godot Engine**, we have listed this list not only with the Godot Engine, but by combining the assets, scripts, animations, graphics, fonts, physics accounts and more we need for a game development. You can find both tips and tactics that you may need during the development as well as helping beginners. At the same time, we have gathered important and prominent discussion topics in godot forums or similar communities, high probability of encountering and resolved problems for you here.
+        Although our list is basically built on <b>Godot Engine</b>, we have listed this list not only with the Godot Engine, but by combining the assets, scripts, animations, graphics, fonts, physics accounts and more we need for a game development. You can find both tips and tactics that you may need during the development as well as helping beginners. At the same time, we have gathered important and prominent discussion topics in godot forums or similar communities, high probability of encountering and resolved problems for you here.
         </td>
     </tr>
     <tr>
