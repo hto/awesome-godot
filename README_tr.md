@@ -6,18 +6,18 @@
 </a>
 </center>
 
-## Description 
+## Açıklama 
 
-| Language | ## |
+| Diller | ## |
 |---|---|---|
-| [![us](flags/us.png)](README.md) | Although our list is basically built on **Godot Engine**, we have listed this list not only with the Godot Engine, but by combining the assets, scripts, animations, graphics, fonts, physics accounts and more we need for a game development. You can find both tips and tactics that you may need during the development as well as helping beginners. At the same time, we have gathered important and prominent discussion topics in godot forums or similar communities, high probability of encountering and resolved problems for you here. |
 | [![tr](flags/tr.png)](README_tr.md) | Listemiz temel olarak **Godot Engine** üzerine yapılmış olsa da, bu listeyi sadece Godot Engine ile sınırlı tutmayıp bir oyun geliştirme için ihtiyacımız olan assetleri, scriptleri, animasyonları, grafikleri, fontları, fizik hesaplarını ve daha fazlasını bir araya getirerek listeledik. Hem yeni başlayanlara yardımcı, hem de geliştirme sırasında ihtiyac duyabileceğiniz bazı ipuclarını, taktikleri bulabilirsiniz. Aynı zamanda godot forumları yada benzer topluluklarda yer alan önem kazanmış, öne çıkmış tartışma konuları, denk gelme olasılığınız yüksek ve çözülmüş sorunları başlıklar halinde burada sizin için topladık. |
-| ![Awesome](flags/de.png) | .. |
+| [![us](flags/us.png)](README.md) | Although our list is basically built on **Godot Engine**, we have listed this list not only with the Godot Engine, but by combining the assets, scripts, animations, graphics, fonts, physics accounts and more we need for a game development. You can find both tips and tactics that you may need during the development as well as helping beginners. At the same time, we have gathered important and prominent discussion topics in godot forums or similar communities, high probability of encountering and resolved problems for you here. |
+| ![de](flags/de.png) | .. |
 
 
-> You can see the contributors below.
+> Katkı yapanları aşağıda görebilirsiniz.
 
-## Categories 
+## Kategoriler 
 
 <table width="100%">
     <tr>
@@ -28,25 +28,25 @@
                 <sub><b>Youtube Tutorials</b></sub>
             </a>
             <br />
-            <sub>In this list, there is a list of video lessons that consist of more than one lesson selected on specific topics. It answers questions such as <b>How To?</b>, <b>How can we use?</b>, <b>How can we do?</b>.</sub>
+            <sub>Bu listede belirli konularda seçilmiş tek part halinde yada birden fazla derslerden oluşan videolu derslerin listesi yer almaktadır. Genel olarak belirlenen konu üzerinde <b>Nasıl Yapılır?</b>, <b>Nasıl kullanabiliriz?</b>, <b>Nasıl çalıştırabiliriz?</b> gibi soruları cevaplar.</sub>
         </td>
         <td align="center" valign="top">
             <a href="games.md" title="godot game demos example">
                 <img src="icons/games.png" width="100px;" alt="godot game demos example" />
                 <br />
-                <sub><b>Game Demos / Examples</b></sub>
+                <sub><b>Oyun Demoları / Örnekler</b></sub>
             </a>
             <br />
-            <sub>We have listed the game demos and examples that we have discovered from the entire open source community, which will show you examples and answer some questions in your mind. You can see the codes of <b>2d</b> and <b>3d</b> games from almost any category here.</sub>
+            <sub>Tüm açık kaynak kod topluluğundan keşif ettiğimiz, size örnek gösterecek, aklınızdaki bazı sorulara cevap olacak oyun demoları ve örneklerini listeledik. Hemen her kategoriden <b>2d</b> ve <b>3d</b> oyunların kodlarını burada görebilirsiniz.</sub>
         </td>
         <td align="center" valign="top">
             <a href="assets.md" title="free game assets">
                 <img src="icons/assets.png" width="100px;" alt="free game assets" />
                 <br />
-                <sub><b>Assets</b></sub>
+                <sub><b>Assetler</b></sub>
             </a>
             <br />
-            <sub>Graphics, characters, maps, drawings, sounds etc., which are indispensable for the game world. You can find the places where you can use or buy the contents for free in a list.</sub>
+            <sub>Oyun dünyası için olmazsa olmazlardan olan grafikler, karakterler, haritalar, çizimler, sesler vs. gibi içerikleri ücretsiz kullanabileceğiniz yada satın alabileceğiniz yerleri liste halinde burada bulabilirsiniz.</sub>
         </td>
     </tr>
     <tr>
@@ -54,28 +54,28 @@
             <a href="animations.md" title="godot animation">
                 <img src="icons/animation.png" width="100px;" alt="godot animation" />
                 <br />
-                <sub><b>Animation</b></sub>
+                <sub><b>Animasyon</b></sub>
             </a>
             <br />
-            <sub>With the animation tool included in Godot Editor, you can see what you can do, how to use it, ready-made examples, video narratives in the list here.</sub>
+            <sub>Godot Editor'un kendi içinde yer alan animasyon aracı ile neler yapabileceğinizi, nasıl kullanacağınızı, hazır örnekleri, videolu anlatımları buradaki listede gebiş bir biçimde görebilirsiniz.</sub>
         </td>
         <td align="center" valign="top">
             <a href="fonts.md" title="fonts">
                 <img src="icons/font.png" width="100px;" alt="fonts" />
                 <br />
-                <sub><b>Fonts</b></sub>
+                <sub><b>Yazı Tipleri (Fonts)</b></sub>
             </a>
             <br />
-            <sub>Links to find fonts that you can use in the content of your games are listed here.</sub>
+            <sub>Oyunlarınızda ekran yerleşimi, logo, button, açıklama gibi detay alanlarınızda oldukça önemli bir yeri olan fontların, kullanım örnekleri ve indirilebilir listelerini buradan bulabilirsiniz.</sub>
         </td>
         <td align="center" valign="top">
             <a href="physics.md" title="godot physics">
                 <img src="icons/physics.png" width="100px;" alt="godot physics" />
                 <br />
-                <sub><b>Physics</b></sub>
+                <sub><b>Fizik Hesapları / Örnekler</b></sub>
             </a>
             <br />
-            <sub>You can find the examples of physics that create the dynamics of our games, and that we will make our characters or vehicles in the game move just like in the real world.</sub>
+            <sub>Oyunlarımızın dinamiklerini oluşturan, karakterlerimizin yada oyundaki araçlarımızın tıpkı gerçek dünyada olduğu gibi hareket etmesini sağlayacağımız fizik örneklerini burada yer alan listede bulabilirsiniz.</sub>
         </td>
     </tr>
     <tr>
@@ -86,32 +86,31 @@
                 <sub><b>Plugins / Modules</b></sub>
             </a>
             <br />
-            <sub>You can see the ready-made packages and add-ons you need during game development in this list.</sub>
+            <sub>Oyun geliştirme sırasında ihtiyacınız olan hazır paketleri ve eklentileri bu listemizde görebilirsiniz.</sub>
         </td>
         <td align="center" valign="top">
             <a href="code.md" title="GDScript / Tips and Tricks">
                 <img src="icons/code.png" width="100px;" alt="GDScript / Tips and Tricks" />
                 <br />
-                <sub><b>GDScript / Tips and Tricks</b></sub>
+                <sub><b>GDScript / İpuçları</b></sub>
             </a>
             <br />
-            <sub>Here is a list of links that will help you learn and use <b> GDScript </b> to help you with Godot Engine</sub>
+            <sub>Godot Engine için size yardımcı olacak <b>GDScript</b> öğrenmenizi ve kullanmanızı kolaylaştıracak bağlantıların listesini burada bulabirsiniz.</sub>
         </td>
         <td align="center" valign="top">
             <a href="forum.md" title="Godot Forum / Community Important Titles">
                 <img src="icons/forum.png" width="100px;" alt="Godot Forum / Community Important Titles" />
                 <br />
-                <sub><b>Forum / Community Important Titles</b></sub>
+                <sub><b>Forum / Topluluk / Önemli Başlıklar</b></sub>
             </a>
             <br />
-            <sub>You can find a list of forums, twitter, developer groups, discussion topics that you can stay in touch with about the community. You will have instant news of the latest developments.</sub>
+            <sub>Topluluk konusunda sürekli bağlantıda kalabileceğiniz forum, twitter, geliştirici grupları, tartışma konularının listesiniz burada bulabilirsiniz. Son gelişmelerden anlık haberiniz olacaktır.</sub>
         </td>
     </tr>
 </table>
 
 
-
-## Contributors 
+## Katkılar 
 <table>
     <tr>
         <td align="center">
