@@ -14,4 +14,6 @@
 - [Godot Animations Document](https://docs.godotengine.org/en/stable/getting_started/step_by_step/animations.html) - You can examine the document, which has a very wide range of features in editing and creating animations on Godot's official site. 
 - [Animation Editor - Getting Started (Youtube Tutorial)](https://www.youtube.com/watch?v=18Em80Bfjp4) -  Godot version 3.1 animation editor tutorial. A very useful video explaining the workspace and the features of the use of tools in the workspace.
 - [Animation Player Tutorial](https://www.youtube.com/watch?v=IQsYMVd_sGg) - A beginner video made with simplest examples on sprite objects 
+- [Animation Player (Spanish)](https://www.youtube.com/watch?v=DO4C8BQZrbI) - It is a video content that explains how you can apply directions and movements to the game in AnimansyonPlayer.
 - [Run Cycle Using Cutout Animations](https://www.youtube.com/watch?v=lMFuEc1XsOQ) - Instead of drawing individual frames of an animation, you can draw segments and move them into animations! In this Godot tutorial we will show you how to do this to create a working character animation
+- [Limitations and Rough Edges (discussion)](https://www.youtube.com/watch?v=t0kJ4yQAIIk) - Here's a quick discussion on the areas that, need improvement for complex animation

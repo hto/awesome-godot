@@ -6,6 +6,8 @@
 </a>
 </center>
 
+>> Son güncelleme : 07.05.2020
+
 ## Açıklama 
 
 <table width="100%">
