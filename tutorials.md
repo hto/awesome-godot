@@ -9,6 +9,7 @@
 - [Animation Editor](https://www.youtube.com/watch?v=18Em80Bfjp4) - Godot version 3.1 animation editor tutorial. A very useful video explaining the workspace and the features of the use of tools in the workspace.
 - [Tileset Editor](https://www.youtube.com/watch?v=V9OoaOlXc_4) - It is a very useful content that you can easily learn to use tileset in Godot Engine and give you ideas.
 - [Making a 2D game in an hour](https://www.youtube.com/watch?v=xQIaRSXh4ic) - This video based on the Platform Game tutorial series by Heartbeast. Includes platform, player moves and animations.
+- [Screen Sizes](https://www.youtube.com/watch?v=gkY6X-bziHQ) - Make game adapt to different screen sizes with this tutorial
 
 ## Playlists
 - [Intro to 3D](https://www.youtube.com/watch?v=SQ7soQ-N-eQ&list=PLsk-HSGFjnaFwmOFrfD4gQQqvgvEUielY) - We’ll look at how to start working in 3D in Godot. You’ll learn how to navigate in the 3D editor, how to create and manipulate 3D objects, and how to work with some of Godot’s essential 3D nodes, such as cameras and lighting.

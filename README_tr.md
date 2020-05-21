@@ -6,7 +6,7 @@
 </a>
 </center>
 
-> Son güncelleme : 10.05.2020
+> Son güncelleme : 21.05.2020
 
 ## Açıklama 
 
