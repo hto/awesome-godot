@@ -14,6 +14,7 @@
 
 ## Assets & Game Graphics
 - [Kenney Assets](https://kenney.nl/assets) - You can find ready-made graphics that can provide resources for your games in multiple categories created by Kenney game studio.
+- [Craftpix](https://craftpix.net/) - Free and Premium game asset market.
 
 ## Sounds
 - [Sound Effects by Kastenfrosch](https://freesound.org/people/Kastenfrosch/packs/10069/) - Some Generic Sound effects / jingles, that mostly dont relate to anything in real-life, but are associated with certain events in games.
